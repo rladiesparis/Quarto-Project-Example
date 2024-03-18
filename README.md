@@ -1,4 +1,4 @@
-The recording video is available [here](https://youtu.be/CDwVQOpt_FA?si=EoM81_ZN28Z_euCn).
+This repository was used during the workshop hosted by R-Ladies Paris and R-Ladies Rome on January 18th, 2024. The recording video is available [here](https://youtu.be/CDwVQOpt_FA?si=EoM81_ZN28Z_euCn).
 
 # Project Example for: Introduction to Reproducible Publications with Quarto Workshop
 
